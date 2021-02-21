@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FeedbackProto</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feedbackdone">Were you able to give feedback?</string>
+    <string name="yes_feedback_done">YES</string>
+    <string name="no_feedback_done">No</string>
+    <string name="yes_have_time_now">Sure</string>
+    <string name="time_to_answer_a_few_questions">Do you have 5 minutes to answer a few questions?</string>
+    <string name="title_activity_went_well">WentWell</string>
+    <string name="how_to_give_timely_feedback">How to Give Timely Feedback</string>
+</resources>
